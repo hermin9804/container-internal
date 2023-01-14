@@ -11,5 +11,3 @@ sudo apt-get -y install bridge-utils
 echo ">>>>> install docker <<<<<<"
 curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
-
-
